@@ -1,3 +1,6 @@
-# CODSOFT-task2
-Codsoft internship Task-2
---->Landing page
+# Book Store Landing Page
+
+--->Tech Stack Used
+     HTML
+     CSS
+     
